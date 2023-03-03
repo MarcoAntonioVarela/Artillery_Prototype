@@ -16,6 +16,7 @@
 #include "uiDraw.h"     // for RANDOM and DRAW*
 #include "ground.h"     // for GROUND
 #include "position.h"   // for POSITION
+#include "test.h"       // for TestRunner
 using namespace std;
 
 /*************************************************************************
@@ -146,6 +147,7 @@ int main(int argc, char** argv)
 #endif // !_WIN32
 {
    // Initialize OpenGL
+   testRunner();
    Position ptUpperRight;
    ptUpperRight.setPixelsX(700.0);
    ptUpperRight.setPixelsY(500.0);

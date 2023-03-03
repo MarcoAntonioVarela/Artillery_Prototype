@@ -1,1 +1,2 @@
 C:\Users\marco\Downloads\230.07.Lab.GLDemo\x64\Debug\Lab07.exe
+D:\Programming\CSE230\Artillery_Prototype\x64\Debug\Lab07.exe

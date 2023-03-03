@@ -1,8 +1,8 @@
-﻿  ground.cpp
-  Lab07.cpp
-  position.cpp
-  test.cpp
-  uiDraw.cpp
-  uiInteract.cpp
-  Generating Code...
-  Lab07.vcxproj -> C:\Users\marco\Downloads\230.07.Lab.GLDemo\x64\Debug\Lab07.exe
+﻿  test.cpp
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(37,16): error C2079: 'v' uses undefined class 'Velocity'
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(50,16): error C2079: 'v' uses undefined class 'Velocity'
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(64,16): error C2079: 'v' uses undefined class 'Velocity'
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(77,16): error C2079: 'v' uses undefined class 'Velocity'
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(90,16): error C2079: 'v' uses undefined class 'Velocity'
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(103,16): error C2079: 'v' uses undefined class 'Velocity'
+D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(116,16): error C2079: 'v' uses undefined class 'Velocity'
