@@ -1,10 +1,10 @@
 /***********************************************************************
  * Heaader File:
- *    Test : Test runner
+ *    Test header file for our test runner
  * Author:
- *    Br. Helfrich
+ *    Efrain Gomez and Marco Varela
  * Summary:
- *    The test runner for all the unit tests
+ *    Our test runner for all of the unit tests (Brother Helfrich's, Efrain's and Marco's)
  ************************************************************************/
 
 #pragma once
