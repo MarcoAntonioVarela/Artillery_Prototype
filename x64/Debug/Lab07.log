@@ -1,8 +1,5 @@
-﻿  test.cpp
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(37,16): error C2079: 'v' uses undefined class 'Velocity'
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(50,16): error C2079: 'v' uses undefined class 'Velocity'
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(64,16): error C2079: 'v' uses undefined class 'Velocity'
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(77,16): error C2079: 'v' uses undefined class 'Velocity'
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(90,16): error C2079: 'v' uses undefined class 'Velocity'
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(103,16): error C2079: 'v' uses undefined class 'Velocity'
-D:\Programming\CSE230\Artillery_Prototype\TestVelocity.h(116,16): error C2079: 'v' uses undefined class 'Velocity'
+﻿  Lab07.cpp
+  test.cpp
+D:\Programming\CSE230\Artillery_Prototype\testPhysics.h(13,10): fatal  error C1083: Cannot open include file: 'physics.h': No such file or directory
+  Velocity.cpp
+  Generating Code...

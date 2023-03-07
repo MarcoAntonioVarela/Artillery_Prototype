@@ -11,7 +11,7 @@
 #include "testPosition.h"
 #include "testGround.h"
 #include "testPhysics.h"           // Unit tests created by Marco Varela
-#include "testVelocity.h"          // Unit tests created by Efrain Gomez
+#include "TestVelocity.h"          // Unit tests created by Efrain Gomez
 
 /*****************************************************************
  * TEST RUNNER
@@ -22,5 +22,5 @@ void testRunner()
    TestPosition().run();
    TestGround().run();
    TestPhysics().run();
-   TestVelocity().run;
+   TestVelocity().run();
 }
